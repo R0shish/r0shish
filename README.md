@@ -1,7 +1,7 @@
 <p align="center">
  <img width="500px" src="https://github.com/R0shish/R0shish/blob/main/assets/untested-feature.gif" align="center" alt="Roshish's GitHub Readme" />
 </p>
-<h1 align="center">Helloooo , I'm Roshish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Helloooo, I'm Roshish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   
