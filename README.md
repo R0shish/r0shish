@@ -17,8 +17,6 @@
 					<img src="https://img.icons8.com/doodle/48/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/roshish.s">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCBrVby-ovAheZ4ey0q9Ar4g?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" ></a>
       </div>
 </p>
 
