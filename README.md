@@ -20,6 +20,3 @@
       </div>
 </p>
 
-<p align="center">
- <img width="100%" src="https://github.com/R0shish/R0shish/blob/output/github-contribution-grid-snake.gif" align="center" alt="Roshish's Contributions" />
-</p>
